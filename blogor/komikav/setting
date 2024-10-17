@@ -1,0 +1,38 @@
+Dasar
+judul: MANGA
+deskripsi: -
+bahasa blog: indonesia
+konten dewasa: false
+favicon: https://www.blogger.com/favicon-image.g?blogID=660413180874060230
+
+privasi: false
+
+publikasi
+alamat blog: apalahbjir.blogspot.com
+
+https
+https: true
+
+izin
+akses pembaca: publik
+
+postingan
+jumlah maksimal postingan yang ditampilkan di halaman utama: 5 entri
+template postingan: -
+lightbox gambar: true
+gambar pemuat lambat / lazy load: false
+penyajian gambar webp: false
+
+komentar
+lokasi komentar: window popup
+siapa yang dapat mengomentari?: pengguna dengan akun google
+moderasi komentar: tidak pernah
+captcha komentar pembaca: true
+
+email
+posting menggunakan email: off
+
+feed situs
+izinkan feed blog: penuh
+
+
